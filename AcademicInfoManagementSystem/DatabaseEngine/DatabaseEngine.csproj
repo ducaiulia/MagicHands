@@ -59,6 +59,16 @@
     <Compile Include="Models\Authentication\AccountViewModels.cs" />
     <Compile Include="Models\Authentication\IdentityModels.cs" />
     <Compile Include="Models\Authentication\ManageViewModels.cs" />
+    <Compile Include="Models\ChiefOfDepartment.cs" />
+    <Compile Include="Models\Contract.cs" />
+    <Compile Include="Models\Course.cs" />
+    <Compile Include="Models\Exam.cs" />
+    <Compile Include="Models\LoginCredentials.cs" />
+    <Compile Include="Models\MandatoryCourse.cs" />
+    <Compile Include="Models\OptionalCourse.cs" />
+    <Compile Include="Models\Student.cs" />
+    <Compile Include="Models\StudentExamGrade.cs" />
+    <Compile Include="Models\Teacher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
