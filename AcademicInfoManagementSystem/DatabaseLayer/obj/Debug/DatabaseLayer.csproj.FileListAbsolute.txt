@@ -1,5 +1,0 @@
-D:\ISS\AcademicInfoManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.dll
-D:\ISS\AcademicInfoManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
-D:\ISS\AcademicInfoManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
-D:\ISS\AcademicInfoManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.dll
-D:\ISS\AcademicInfoManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
