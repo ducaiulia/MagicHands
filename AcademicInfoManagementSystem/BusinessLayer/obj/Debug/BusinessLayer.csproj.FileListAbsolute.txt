@@ -1,0 +1,7 @@
+D:\ISS\AcademicInfoManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\ISS\AcademicInfoManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\ISS\AcademicInfoManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\ISS\AcademicInfoManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\ISS\AcademicInfoManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\ISS\AcademicInfoManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\ISS\AcademicInfoManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb

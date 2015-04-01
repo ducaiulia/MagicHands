@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Microsoft.Web.WebPages.OAuth;
-using AcademicinfoManagementSystem.Models;
+using AcademicInfoManagementSystem.Models;
 
-namespace AcademicinfoManagementSystem
+namespace AcademicInfoManagementSystem
 {
     public static class AuthConfig
     {

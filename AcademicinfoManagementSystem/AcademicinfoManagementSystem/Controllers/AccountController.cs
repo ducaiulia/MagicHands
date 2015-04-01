@@ -8,10 +8,10 @@ using System.Web.Security;
 using DotNetOpenAuth.AspNet;
 using Microsoft.Web.WebPages.OAuth;
 using WebMatrix.WebData;
-using AcademicinfoManagementSystem.Filters;
-using AcademicinfoManagementSystem.Models;
+using AcademicInfoManagementSystem.Filters;
+using AcademicInfoManagementSystem.Models;
 
-namespace AcademicinfoManagementSystem.Controllers
+namespace AcademicInfoManagementSystem.Controllers
 {
     [Authorize]
     [InitializeSimpleMembership]

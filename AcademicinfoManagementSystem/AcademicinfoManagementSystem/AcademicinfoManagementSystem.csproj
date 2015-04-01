@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{1452E61D-D291-40D2-B856-255ACA753054}</ProjectGuid>
+    <ProjectGuid>{FDDDE6D6-6BED-40EA-A426-D6B34FA684DC}</ProjectGuid>
     <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AcademicinfoManagementSystem</RootNamespace>
-    <AssemblyName>AcademicinfoManagementSystem</AssemblyName>
+    <RootNamespace>AcademicInfoManagementSystem</RootNamespace>
+    <AssemblyName>AcademicInfoManagementSystem</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -262,7 +262,6 @@
     <Content Include="Scripts\knockout-2.2.0.debug.js" />
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
-    <Content Include="Views\Student\HtmlPage1.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -309,6 +308,12 @@
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
+      <Project>{a498194a-42c4-4893-9208-84013ed85072}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -325,9 +330,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>9324</DevelopmentServerPort>
+          <DevelopmentServerPort>50254</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:7318/</IISUrl>
+          <IISUrl>http://localhost:63592/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
