@@ -9,8 +9,8 @@ namespace DatabaseEngine.Models
     public class MandatoryCourse : Course
     {
         private Teacher Teacher { get; set; }
-        public MandatoryCourse(int Cid, string Name, Teacher teacher)
-            : base(Cid, Name)
+        public MandatoryCourse(int Cid, string Name, Teacher teacher,Semester semester,Exam exam)
+            : base(Cid, Name,semester,exam)
         {
             this.Teacher = teacher;
         }

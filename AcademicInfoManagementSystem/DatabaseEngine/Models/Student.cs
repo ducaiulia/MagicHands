@@ -11,6 +11,9 @@ namespace DatabaseEngine.Models
         private int Sid { get; set; }
         private string FirstName { get; set; }
         private string LastName { get; set; }
+        private List<Contract> contractlist { get; set; }
+        private List<StudentExamGrade> gradesList { get; set; }
+        private List<int> semesteraverage { get; set; }
         //private LoginCredentials LoginCreds
         //{
         //    get { return LoginCreds; }
@@ -20,6 +23,10 @@ namespace DatabaseEngine.Models
             this.Sid = sid;
             this.FirstName = firstName;
             this.LastName = lastName;
+            contractlist = new List<Contract>();
+            gradesList = new List<StudentExamGrade>();
+            semesteraverage = new List<int>();
+
         }
     }
 }
