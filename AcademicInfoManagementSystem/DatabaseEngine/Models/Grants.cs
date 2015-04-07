@@ -6,20 +6,19 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class Grants
+    public class Grants
     {
-
-        private List<Student> performGrant { get; set; }
-        private List<Student> meritGrant { get; set; }
-        private List<Student> studyGrant { get; set; }
-        private List<Student> socialGrant { get; set; }
+        public List<Student> PerformanceGrantlList { get; set; }
+        public List<Student> MeritGrantlList { get; set; }
+        public List<Student> StudyGrantList { get; set; }
+        public List<Student> SocialGrantList { get; set; }
 
         public Grants()
         {
-            performGrant = new List<Student>();
-            meritGrant = new List<Student>();
-            studyGrant = new List<Student>();
-            socialGrant = new List<Student>();
+            this.PerformanceGrantlList = new List<Student>();
+            this.MeritGrantlList = new List<Student>();
+            this.StudyGrantList = new List<Student>();
+            this.SocialGrantList = new List<Student>();
         }
 
     }

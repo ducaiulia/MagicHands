@@ -8,15 +8,17 @@ namespace DatabaseEngine.Models
 {
     public class Exam
     {
-        private int EID { get; set; }
-        private Teacher secondTeacher { get; set; } //default null
-        List<StudentExamGrade> seg { get; set; }
+        public int EID { get; set; }
+        private Teacher secondTeacher = null; //default null
+        public Course Course;
+        public List<StudentExamGrade> StudentExamGrades { get; set; }
+        public Teacher SecondTeacher { get; set; }
 
-        public Exam(int eid,Teacher second)
+        public Exam(int eid, Course course)
         {
             this.EID = eid;
-            this.secondTeacher = second;
-            seg = new List<StudentExamGrade>();
+            this.Course = course;
+            this.StudentExamGrades = new List<StudentExamGrade>();
         }
 
     }

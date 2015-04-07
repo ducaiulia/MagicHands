@@ -8,15 +8,15 @@ namespace DatabaseEngine.Models
 {
     public class User
     {
-        
-        private string account { get; set; }
-        private string password { get; set; }
 
-        public User(string acc,string pass)
+        public string Username { get; set; }
+        public string Password { get; set; }
+
+        public User(string username, string password)
         {
-           
-            this.account = acc;
-            this.password = pass;
+
+            this.Username = username;
+            this.Password = password;
         }
     }
 }

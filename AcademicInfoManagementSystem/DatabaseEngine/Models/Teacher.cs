@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    public class Teacher :User
+    public class Teacher : User
     {
-        private int Tid { get; set; }
-        private string Name { get; set; }
-        private List<Course> courselist { get; set; }
+        public int TID { get; set; }
+        public string Name { get; set; }
+        public List<Course> CourseList;
 
-        public Teacher(string account,string password,int Tid, string Name) : base (account,password)
+        public Teacher(string username, string password, int tid, string name)
+            : base(username, password)
         {
-            this.Tid = Tid;
+            this.TID = tid;
             this.Name = Name;
-            courselist = new List<Course>();
+            this.CourseList = new List<Course>();
         }
     }
 }

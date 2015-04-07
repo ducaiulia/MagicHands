@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class StudentExamGrade
+    public class StudentExamGrade
     {
-        Student student { get; set; }
-        int grade { get; set; }
-        Exam exam { get; set; }
+        public Student Student { get; set; }
+        public int Grade { get; private set; } //only twice modifiable constraint
+        public Exam Exam { get; set; }
 
-        public StudentExamGrade(Student student,int grade,Exam exam)
+        public StudentExamGrade(Student student, int grade, Exam exam)
         {
-            this.student = student;
-            this.grade = grade;
-            this.exam = exam;
+            this.Student = student;
+            this.Grade = grade;
+            this.Exam = exam;
         }
 
 

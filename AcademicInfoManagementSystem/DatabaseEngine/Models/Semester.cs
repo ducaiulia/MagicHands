@@ -8,17 +8,17 @@ namespace DatabaseEngine.Models
 {
     public class Semester
     {
-        private int SID { get; set; }
-        private string semester { get; set; }
-        List<Group> grouplist { get; set; }
-        List<Course> courselist { get; set; }
+        public int SID { get; set; }
+        public string Name { get; set; }
+        public List<Group> GroupList { get; set; }
+        public List<Course> CourseList { get; set; }
 
-        public Semester(int sid, string semester)
+        public Semester(int sid, string name)
         {
             this.SID = sid;
-            this.semester = semester;
-            grouplist = new List<Group>();
-            courselist = new List<Course>();
+            this.Name = name;
+            this.GroupList = new List<Group>();
+            this.CourseList= new List<Course>();
 
         }
     }

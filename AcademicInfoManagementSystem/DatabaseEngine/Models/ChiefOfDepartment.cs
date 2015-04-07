@@ -8,12 +8,12 @@ namespace DatabaseEngine.Models
 {
     public class ChiefOfDepartment : Teacher
     {
-        public Department department { get; set; }
+        public Department Department { get; set; }
 
-        public ChiefOfDepartment(int Tid, string Name,string account,string password,Department dep)
-            : base(account,password,Tid,Name)
+        public ChiefOfDepartment(int tid, string name, string username, string password, Department department)
+            : base(username, password, tid, name)
         {
-            this.department = dep;
+            this.Department = department;
         }
 
     }

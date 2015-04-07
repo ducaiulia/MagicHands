@@ -8,19 +8,19 @@ namespace DatabaseEngine.Models
 {
     public class GrantsTemplate
     {
-        private int total { get; set; }
-        private int performGrant { get; set; }
-        private int meritGrant { get; set; }
-        private int studyGrant { get; set; }
-        private int socialGrant { get; set; }
+        public int Total { get; set; }
+        public int PerformanceGrant { get; set; }
+        public int MeritGrant { get; set; }
+        public int StudyGrant { get; set; }
+        public int SocialGrant { get; set; }
 
-        public GrantsTemplate(int total,int perform,int merit,int study,int social)
+        public GrantsTemplate(int total,int performanceGrant,int meritGrant,int studyGrant,int socialGrant)
         {
-            this.total = total;
-            this.performGrant = perform;
-            this.meritGrant = merit;
-            this.studyGrant = study;
-            this.socialGrant = social;
+            this.Total = total;
+            this.PerformanceGrant= performanceGrant;
+            this.MeritGrant = meritGrant;
+            this.StudyGrant = studyGrant;
+            this.SocialGrant = socialGrant;
         }
     }
 }

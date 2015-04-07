@@ -8,13 +8,13 @@ namespace DatabaseEngine.Models
 {
     public class Contract
     {
-        private Student student { get; set; }
-        private List<Course> studentsCourses { get; set; }
+        public Student Student { get; set; }
+        public List<Course> CourseList { get; set; }
 
-        public Contract(Student st)
+        public Contract(Student student)
         {
-            this.student = st;
-            studentsCourses = new List<Course>();
+            this.Student = student;
+            this.CourseList = new List<Course>();
         }
     }
 }

@@ -8,9 +8,10 @@ namespace DatabaseEngine.Models
 {
     public class OptionalCourse : Course
     {
-        private Teacher Teacher { get; set; }
-        public OptionalCourse(int Cid, string Name, Teacher teacher,Semester semester,Exam exam)
-            : base(Cid, Name,semester,exam)
+        public Teacher Teacher { get; set; }
+
+        public OptionalCourse(int cid, string name, Teacher teacher, Semester semester, Exam exam)
+            : base(cid, name, semester, exam)
         {
             this.Teacher = teacher;
         }
