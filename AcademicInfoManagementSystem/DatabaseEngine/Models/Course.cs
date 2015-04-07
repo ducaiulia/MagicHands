@@ -10,13 +10,15 @@ namespace DatabaseEngine.Models
     {
         private int Cid { get; set; }
         private string Name { get; set; }
-        //private Semester Semester { get; set; }
-        //private Exam Exam { get; set; }
+        private Semester semester { get; set; }
+        private Exam exam { get; set; }
 
-        public Course(int Cid, string Name)
+        public Course(int Cid, string Name,Semester semester,Exam exam)
         {
             this.Cid = Cid;
             this.Name = Name;
+            this.semester = semester;
+            this.exam = exam;
         }
     }
 }
