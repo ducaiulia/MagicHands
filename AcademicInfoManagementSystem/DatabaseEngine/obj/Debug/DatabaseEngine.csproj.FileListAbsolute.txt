@@ -30,3 +30,16 @@ E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\b
 E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
 E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
 E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll.config
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.pdb
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.Owin.xml

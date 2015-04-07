@@ -8,9 +8,9 @@ namespace DatabaseEngine.Models
 {
     public class Student
     {
-        private int Sid { get; set; }
-        private string FirstName { get; set; }
-        private string LastName { get; set; }
+        public int Sid { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         //private LoginCredentials LoginCreds
         //{
         //    get { return LoginCreds; }
