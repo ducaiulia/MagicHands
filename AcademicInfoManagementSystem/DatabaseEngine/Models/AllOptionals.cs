@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class AllOptionals
+    public class AllOptionals
     {
-        private List<OptionalCourse> optional_list { get; set; }
+        public List<OptionalCourse> OptionalCourseList{ get; set; }
 
         public AllOptionals()
         {
-            optional_list = new List<OptionalCourse>();
+            this.OptionalCourseList = new List<OptionalCourse>();
         }
 
 

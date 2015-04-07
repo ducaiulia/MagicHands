@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class Faculty
+    public class Faculty
     {
-        private int FID { get; set; }
-        private string name { get; set; }
-        private List<Department> departments { get; set; }
-        private List<Graduate> graduates { get; set; }
-        private List<Undergraduate> undergraduates { get; set; }
+        public int FID { get; set; }
+        public string Name { get; set; }
+        public List<Department> DepartmentList { get; set; }
+        public List<Graduate> GraduateList { get; set; }
+        public List<Undergraduate> UndergraduateList { get; set; }
 
-        public Faculty(int fid,string name)
+        public Faculty(int fid, string name)
         {
             this.FID = fid;
-            this.name = name;
-            departments = new List<Department>();
-            graduates = new List<Graduate>();
-            undergraduates = new List<Undergraduate>();
+            this.Name = name;
+            this.DepartmentList = new List<Department>();
+            this.GraduateList = new List<Graduate>();
+            this.UndergraduateList = new List<Undergraduate>();
         }
 
 

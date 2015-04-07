@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class Group
+    public class Group
     {
-        private int GID { get; set; }
-        private List<Student> studentlist { get; set; }
+        public int GID { get; set; }
+        public List<Student> StudentList { get; set; }
 
             public Group(int gid)
         {
             this.GID = gid;
-            studentlist = new List<Student>();
+            StudentList = new List<Student>();
         }
     }
 }

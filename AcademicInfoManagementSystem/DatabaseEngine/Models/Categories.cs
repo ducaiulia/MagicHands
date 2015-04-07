@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class Categories
+    public class Categories
     {
-        private List<Category> categoryList { get; set; }
+        public List<Category> CategoryList { get; set; }
 
         public Categories()
         {
-            categoryList = new List<Category>();
+            this.CategoryList = new List<Category>();
         }
     }
 }

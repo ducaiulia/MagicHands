@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class Undergraduate
+    public class Undergraduate
     {
-        private List<StudyProgramme> stproglist { get; set; }
+        private List<StudyProgramme> StudyProgList;
 
         public Undergraduate()
         {
-            stproglist = new List<StudyProgramme>();
+            this.StudyProgList = new List<StudyProgramme>();
         }
     }
 }

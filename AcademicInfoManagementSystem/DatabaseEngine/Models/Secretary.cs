@@ -7,19 +7,20 @@ using System.Threading.Tasks;
 namespace DatabaseEngine.Models
 {
 
-    
-
-    class Secretary :User
+    public class Secretary : User
     {
-        private int SID { get; set; }
-        private string name { get; set; }
-        GrantsTemplate grants { get; set; }
+        public int SID { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        GrantsTemplate GrantsTemplate { get; set; }
 
-        public Secretary(int sid,string name, string account,string password,GrantsTemplate grants) : base(account,password)
+        public Secretary(int sid, string firstName, string lastName, string account, string password, GrantsTemplate grants)
+            : base(account, password)
         {
             this.SID = sid;
-            this.name = name;
-            this.grants = grants;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.GrantsTemplate = grants;
         }
     }
 }

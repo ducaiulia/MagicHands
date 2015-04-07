@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class StudyProgramme
+    public class StudyProgramme
     {
-        private int STPID { get; set; }
-        private List<StudyLanguage> stlanglist { get; set; }
+        public int STPID { get; set; }
+        public List<StudyLanguage> StudyLangList;
 
         public StudyProgramme(int stpid)
         {
             this.STPID = stpid;
-            stlanglist = new List<StudyLanguage>();
+            this.StudyLangList = new List<StudyLanguage>();
         }
         
 

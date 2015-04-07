@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace DatabaseEngine.Models
 {
-    class StudyLanguage
+    public class StudyLanguage
     {
-        private int STLID { get; set; }
-        private List<Semester> semesterlist { get; set; }
-        Secretary secretary { get; set; }
+        public int STLID { get; set; }
+        public Secretary Secretary { get; set; }
+        private List<Semester> SemesterList;
 
             public StudyLanguage(int stlid,Secretary secretary)
         {
             this.STLID = stlid;
-            this.secretary = secretary;
-            semesterlist = new List<Semester>();
+            this.Secretary = secretary;
+            this.SemesterList = new List<Semester>();
         }
     }
 }
