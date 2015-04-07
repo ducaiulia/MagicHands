@@ -14,3 +14,19 @@ E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\DatabaseEngine\bin\D
 E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
 E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
 E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll.config
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.pdb
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.Owin.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.Owin.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
