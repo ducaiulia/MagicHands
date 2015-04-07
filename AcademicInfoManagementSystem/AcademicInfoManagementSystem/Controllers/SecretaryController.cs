@@ -18,5 +18,17 @@ namespace AcademicInfoManagementSystem.Controllers
         {
             return View();
         }
+        public ActionResult Courses()
+        {
+            return View();
+        }
+        public ActionResult Students()
+        {
+            return View();
+        }
+        public ActionResult Teachers()
+        {
+            return View();
+        }
     }
 }

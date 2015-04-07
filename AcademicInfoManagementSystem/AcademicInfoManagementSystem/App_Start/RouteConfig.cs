@@ -16,6 +16,9 @@ namespace AcademicInfoManagementSystem
             routes.MapRoute(
                 name: "Student",
                 url: "{controller}/{action}/{id}");
+            routes.MapRoute(
+               name: "Secreatry",
+               url: "{controller}/{action}/{id}");
 
             routes.MapRoute(
                 name: "Default",
