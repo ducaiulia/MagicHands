@@ -175,3 +175,36 @@ D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.O
 D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.csprojResolveAssemblyReference.cache
 D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.dll
 D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll.config
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Owin.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.pdb

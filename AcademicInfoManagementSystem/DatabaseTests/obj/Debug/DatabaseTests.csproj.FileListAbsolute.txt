@@ -1,0 +1,33 @@
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.dll.config
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.pdb
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseEngine.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.Owin.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseEngine.pdb
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.xml
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.Owin.xml
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.csprojResolveAssemblyReference.cache
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.dll
+D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.dll.config
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseEngine.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseEngine.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.pdb

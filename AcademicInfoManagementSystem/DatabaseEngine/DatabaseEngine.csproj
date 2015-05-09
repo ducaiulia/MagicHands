@@ -56,11 +56,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="DbContexts\AppDBContext.cs" />
-=======
     <Compile Include="Db.cs" />
->>>>>>> 562c2faa5519c607ac8e45f0a5105e0ac7ebb8d8
+    <Compile Include="DbContexts\AppDBContext.cs" />
     <Compile Include="Models\AllOptionals.cs" />
     <Compile Include="Models\Authentication\AccountViewModels.cs" />
     <Compile Include="Models\Authentication\IdentityModels.cs" />
@@ -91,9 +88,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config">
-      <SubType>Designer</SubType>
-    </None>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />

@@ -55,3 +55,15 @@ E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\Bu
 E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
 E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\DatabaseEngine.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\Microsoft.Owin.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\DatabaseEngine.pdb
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb

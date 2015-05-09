@@ -21,15 +21,15 @@ namespace BusinessLogic.Controllers
 
         #region Functionalities
 
-        public bool AddGrade(Exam exam, Student student, int grade)
-        {
-            if (exam.StudentExamGrades.Count(seg => seg.Exam == exam && seg.Student == student) > 0)
-                return false;
-            var examGrade = new StudentExamGrade(student, grade, exam);
-            student.GradesList.Add(examGrade);
-            exam.StudentExamGrades.Add(examGrade);
-            return true;
-        }
+        //public bool AddGrade(Exam exam, Student student, int grade)
+        //{
+        //    if (exam.StudentExamGrades.Count(seg => seg.Exam == exam && seg.Student == student) > 0)
+        //        return false;
+        //    var examGrade = new StudentExamGrade(student, grade, exam);
+        //    student.GradesList.Add(examGrade);
+        //    exam.StudentExamGrades.Add(examGrade);
+        //    return true;
+        //}
         #endregion
 
         #region Fields

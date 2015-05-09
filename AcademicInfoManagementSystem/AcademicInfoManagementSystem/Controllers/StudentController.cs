@@ -14,10 +14,10 @@ namespace AcademicInfoManagementSystem.Controllers
             return View();
         }
 
-        public ActionResult GetCourses()
-        {
-            ViewBag.Message = "List of your courses:";
-            return View();
-        }
+        //public ActionResult GetCourses()
+        //{
+        //    ViewBag.Message = "List of your courses:";
+        //    return View();
+        //}
     }
 }
