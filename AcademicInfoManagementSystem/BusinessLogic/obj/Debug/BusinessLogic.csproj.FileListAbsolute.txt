@@ -43,3 +43,15 @@ D:\ISS\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\EntityFramework.xml
 D:\ISS\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 D:\ISS\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
 D:\ISS\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\DatabaseEngine.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\Microsoft.Owin.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\DatabaseEngine.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb

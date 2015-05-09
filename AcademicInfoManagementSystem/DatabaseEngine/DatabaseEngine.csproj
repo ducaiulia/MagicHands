@@ -48,7 +48,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Db.cs" />
     <Compile Include="Models\AllOptionals.cs" />
     <Compile Include="Models\Authentication\AccountViewModels.cs" />
     <Compile Include="Models\Authentication\IdentityModels.cs" />
@@ -72,7 +73,6 @@
     <Compile Include="Models\Grants.cs" />
     <Compile Include="Models\GrantsTemplate.cs" />
     <Compile Include="Models\Group.cs" />
-    <Compile Include="Models\LoginCredentials.cs" />
     <Compile Include="Models\MandatoryCourse.cs" />
     <Compile Include="Models\OptionalCourse.cs" />
     <Compile Include="Models\Secretary.cs" />
