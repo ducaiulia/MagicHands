@@ -30,6 +30,7 @@ E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\b
 E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
 E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
 E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
+<<<<<<< HEAD
 C:\Users\Balinteu\Documents\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll.config
 C:\Users\Balinteu\Documents\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll
 C:\Users\Balinteu\Documents\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.pdb
@@ -62,3 +63,28 @@ D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug
 D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
 D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
 D:\FACULTATE\SE\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
+=======
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll.config
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.pdb
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.dll
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ISS\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\Microsoft.Owin.xml
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.csprojResolveAssemblyReference.cache
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\obj\Debug\DatabaseEngine.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll.config
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.dll
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.xml
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\EntityFramework.SqlServer.xml
+E:\Faculta\Labs\SE\Project\MagicHands\MagicHands\AcademicInfoManagementSystem\DatabaseEngine\bin\Debug\DatabaseEngine.pdb
+>>>>>>> 562c2faa5519c607ac8e45f0a5105e0ac7ebb8d8

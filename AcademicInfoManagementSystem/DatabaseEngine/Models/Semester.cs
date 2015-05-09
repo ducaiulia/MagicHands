@@ -17,6 +17,7 @@ namespace DatabaseEngine.Models
 
         public Semester(int sid, string name)
         {
+            //TODO Verify the unicity of the SID
             this.SID = sid;
             this.Name = name;
             this.GroupList = new List<Group>();

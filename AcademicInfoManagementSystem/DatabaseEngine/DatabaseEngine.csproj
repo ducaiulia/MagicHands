@@ -56,7 +56,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="DbContexts\AppDBContext.cs" />
+=======
+    <Compile Include="Db.cs" />
+>>>>>>> 562c2faa5519c607ac8e45f0a5105e0ac7ebb8d8
     <Compile Include="Models\AllOptionals.cs" />
     <Compile Include="Models\Authentication\AccountViewModels.cs" />
     <Compile Include="Models\Authentication\IdentityModels.cs" />

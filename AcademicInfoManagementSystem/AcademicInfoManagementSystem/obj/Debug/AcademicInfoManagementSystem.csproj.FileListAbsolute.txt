@@ -1,0 +1,177 @@
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll.config
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.pdb
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Antlr3.Runtime.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Owin.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Helpers.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Mvc.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Razor.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\WebGrease.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.pdb
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.pdb
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Helpers.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Mvc.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Razor.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Antlr3.Runtime.pdb
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.csprojResolveAssemblyReference.cache
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.dll
+E:\Faculta\Labs\SE\Magic Hands\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.pdb
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll.config
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.pdb
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Antlr3.Runtime.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Owin.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Helpers.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Mvc.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Razor.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\WebGrease.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.pdb
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.pdb
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Helpers.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Mvc.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Razor.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Antlr3.Runtime.pdb
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.csprojResolveAssemblyReference.cache
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.dll
+E:\ubb\anulII\SEM2\SE-2015\Project\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.pdb
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll.config
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\AcademicInfoManagementSystem.pdb
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Antlr3.Runtime.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Owin.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Helpers.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Mvc.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Razor.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\WebGrease.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\BusinessLogic.pdb
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\DatabaseEngine.pdb
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Helpers.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Mvc.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Optimization.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.Razor.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Antlr3.Runtime.pdb
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Newtonsoft.Json.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.csprojResolveAssemblyReference.cache
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.dll
+D:\ISS\AcademicInfoManagementSystem\AcademicInfoManagementSystem\obj\Debug\AcademicInfoManagementSystem.pdb
