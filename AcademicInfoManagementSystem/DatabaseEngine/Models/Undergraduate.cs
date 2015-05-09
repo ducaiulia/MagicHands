@@ -8,11 +8,18 @@ namespace DatabaseEngine.Models
 {
     public class Undergraduate
     {
+        private int ID;
         private List<StudyProgramme> StudyProgList;
 
         public Undergraduate()
         {
+            this.ID = 1;
             this.StudyProgList = new List<StudyProgramme>();
+        }
+
+        public void AddStudyProgramme(StudyProgramme sp)
+        {
+            this.StudyProgList.Add(sp);
         }
     }
 }

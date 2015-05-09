@@ -8,21 +8,21 @@ namespace DatabaseEngine.Models
 {
     public class Student : User
     {
-        public int SID { get; set; }
+        //public int ID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public List<Contract> ContractList { get; set; }
-        public List<StudentExamGrade> GradesList { get; set; }
+        //public List<StudentExamGrade> GradesList { get; set; }
         public List<int> SemesterAverage { get; set; }
 
         public Student(int sid, string firstName, string lastName, string username, string password)
             : base(username, password)
         {
-            this.SID = sid;
+            //this.ID = sid;
             this.FirstName = firstName;
             this.LastName = lastName;
             this.ContractList = new List<Contract>();
-            this.GradesList = new List<StudentExamGrade>();
+            //this.GradesList = new List<StudentExamGrade>();
             this.SemesterAverage = new List<int>();
 
         }

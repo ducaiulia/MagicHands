@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace DatabaseEngine.Models
 {
     public class Faculty
     {
+        [Key]
         public int FID { get; set; }
         public string Name { get; set; }
         public List<Department> DepartmentList { get; set; }
@@ -23,6 +25,19 @@ namespace DatabaseEngine.Models
             this.UndergraduateList = new List<Undergraduate>();
         }
 
+        public void AddDepartment(Department dep)
+        {
+            this.DepartmentList.Add(dep);
+        }
 
+        public void AddGraduate(Graduate grd)
+        {
+            this.GraduateList.Add(grd);
+        }
+
+        public void AddUndergraduate(Undergraduate undgrd)
+        {
+            this.UndergraduateList.Add(undgrd);
+        }
     }
 }

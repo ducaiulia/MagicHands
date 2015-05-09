@@ -8,6 +8,7 @@ namespace DatabaseEngine.Models
 {
     public class AllOptionals
     {
+        private int ID = 1;
         public List<OptionalCourse> OptionalCourseList{ get; set; }
 
         public AllOptionals()

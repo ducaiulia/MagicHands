@@ -8,6 +8,7 @@ namespace DatabaseEngine.Models
 {
     public class Categories
     {
+        private int ID = 1;
         public List<Category> CategoryList { get; set; }
 
         public Categories()

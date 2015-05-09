@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace DatabaseEngine.Models
 {
     public class Semester
     {
+        [Key]
         public int SID { get; set; }
         public string Name { get; set; }
         public List<Group> GroupList { get; set; }
@@ -19,7 +21,16 @@ namespace DatabaseEngine.Models
             this.Name = name;
             this.GroupList = new List<Group>();
             this.CourseList= new List<Course>();
+        }
 
+        public void AddGroup(Group gr)
+        {
+            this.GroupList.Add(gr);
+        }
+
+        public void AddCourse(Course c)
+        {
+            this.CourseList.Add(c);
         }
     }
 }
