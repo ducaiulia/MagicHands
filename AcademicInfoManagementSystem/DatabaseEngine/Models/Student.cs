@@ -8,6 +8,7 @@ namespace DatabaseEngine.Models
 {
     public class Student : User
     {
+        private static int currentId;
         //public int ID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -25,6 +26,12 @@ namespace DatabaseEngine.Models
             //this.GradesList = new List<StudentExamGrade>();
             this.SemesterAverage = new List<int>();
 
+        }
+
+        public static int CurrentId
+        {
+            get { return currentId; }
+            set { currentId = value; }
         }
     }
 }
