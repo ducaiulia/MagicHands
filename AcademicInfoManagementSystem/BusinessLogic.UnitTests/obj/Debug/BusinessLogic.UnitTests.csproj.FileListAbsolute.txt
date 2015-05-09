@@ -1,0 +1,14 @@
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\BusinessLogic.UnitTests.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\BusinessLogic.UnitTests.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\BusinessLogic.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\DatabaseEngine.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\EntityFramework.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\Microsoft.Owin.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\BusinessLogic.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\DatabaseEngine.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\bin\Debug\EntityFramework.xml
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\obj\Debug\BusinessLogic.UnitTests.csprojResolveAssemblyReference.cache
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\obj\Debug\BusinessLogic.UnitTests.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\BusinessLogic.UnitTests\obj\Debug\BusinessLogic.UnitTests.pdb

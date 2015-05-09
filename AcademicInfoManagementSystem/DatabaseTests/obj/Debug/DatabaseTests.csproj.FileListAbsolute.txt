@@ -31,3 +31,21 @@ C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\bin\Deb
 C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.csprojResolveAssemblyReference.cache
 C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.dll
 C:\Users\Adrian Achim\Desktop\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.dll.config
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseTests.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseEngine.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.Owin.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\DatabaseEngine.pdb
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.xml
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\EntityFramework.SqlServer.xml
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\bin\Debug\Microsoft.Owin.xml
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.csprojResolveAssemblyReference.cache
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.dll
+E:\Faculta\Labs\SE\Project\MagicHands\AcademicInfoManagementSystem\DatabaseTests\obj\Debug\DatabaseTests.pdb
