@@ -13,14 +13,14 @@ namespace DatabaseEngine.Models
         public int CID { get; set; }
         public string Name { get; set; }
         public Semester Semester { get; set; }
-        public Exam Exam { get; set; }
+        public Exam Exam { get; set; } // to be added later
 
-        public Course(int cid, string name, Semester semester, Exam exam)
+        public Course(int cid, string name, Semester semester)
         {
             this.CID = cid;
             this.Name = name;
             this.Semester = semester;
-            this.Exam = exam;
+           // this.Exam = exam;
         }
 
 

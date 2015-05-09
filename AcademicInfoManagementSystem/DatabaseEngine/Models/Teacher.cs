@@ -10,7 +10,8 @@ namespace DatabaseEngine.Models
     {
         //public int ID { get; set; }
         public string Name { get; set; }
-        public List<Course> CourseList;
+        public List<Course> CourseList { get; set; }
+    ;
 
         public Teacher(string username, string password, int tid, string name)
             : base(username, password)
